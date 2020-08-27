@@ -1,29 +1,21 @@
-# supermall
-![](https://mybig.oss-cn-beijing.aliyuncs.com/img/20200827120721.gif)
 
-## Project setup
+本商城用了vue3.6,vuecli3,iscroll,es6
+# supermall
+![](https://mybig.oss-cn-beijing.aliyuncs.com/img/20200827121237.png)
+![](https://mybig.oss-cn-beijing.aliyuncs.com/img/20200827121208.png)
+## 安装依赖的包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
