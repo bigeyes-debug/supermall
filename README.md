@@ -1,4 +1,5 @@
 # supermall
+![](https://mybig.oss-cn-beijing.aliyuncs.com/img/20200827120721.gif)
 
 ## Project setup
 ```
